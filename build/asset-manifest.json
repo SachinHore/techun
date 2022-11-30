@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techun/static/css/main.69442002.css",
+    "main.js": "/techun/static/js/main.0b23c053.js",
+    "index.html": "/techun/index.html",
+    "main.69442002.css.map": "/techun/static/css/main.69442002.css.map",
+    "main.0b23c053.js.map": "/techun/static/js/main.0b23c053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69442002.css",
+    "static/js/main.0b23c053.js"
+  ]
+}
