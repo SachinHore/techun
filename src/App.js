@@ -38,6 +38,7 @@ const App = () =>{
         <div>
             <NewExpense onAddExpense={addExpenseHandler}></NewExpense>
             <Expenses item={expenses}></Expenses>
+            <input type="text"/>
         </div>
         
     );
