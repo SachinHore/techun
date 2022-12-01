@@ -4,7 +4,6 @@ import Card from '../UI/Card';
 import React from 'react';
 
 const Expenses = (props) =>{
-    let expenses = props.item;
     return(
         <div>
             
@@ -14,6 +13,7 @@ const Expenses = (props) =>{
                 props.item.map(
                     expense =>(
                         <ExpenseItem 
+                            key={expense.id}
                             date={expense.date} 
                             title={expense.title} 
                             amount={expense.amount} />
