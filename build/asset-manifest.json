@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/techun/static/css/main.69442002.css",
-    "main.js": "/techun/static/js/main.decab0b3.js",
-    "index.html": "/techun/index.html",
-    "main.69442002.css.map": "/techun/static/css/main.69442002.css.map",
-    "main.decab0b3.js.map": "/techun/static/js/main.decab0b3.js.map"
+    "main.css": "/static/css/main.69442002.css",
+    "main.js": "/static/js/main.35a76b3d.js",
+    "index.html": "/index.html",
+    "main.69442002.css.map": "/static/css/main.69442002.css.map",
+    "main.35a76b3d.js.map": "/static/js/main.35a76b3d.js.map"
   },
   "entrypoints": [
     "static/css/main.69442002.css",
-    "static/js/main.decab0b3.js"
+    "static/js/main.35a76b3d.js"
   ]
 }

@@ -8,14 +8,15 @@ const NewExpense = (props) =>{
     const saveExpenseDataHandler = (enteredExpenseData) =>{
 
         const expenseData = {
-            ...enteredExpenseData,
-            id:Math.random().toString()
+            id:Math.trunc(Math.random()*10000),
+            ...enteredExpenseData
+            
         }
 
         props.onAddExpense(expenseData);
 
 
-        console.log(expenseData);
+        //console.log(expenseData);
 
     }
 
